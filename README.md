@@ -7,6 +7,40 @@ Saint & Co. is a SaaS platform designed to turn scattered and unreadable data in
 Saint is born with a bold vision: **to bring the power of Data Intelligence to everyone**, with a modular interface, smart insights, and radical simplicity.
 
 ---
+<p align="center">
+  <img src="https://your-logo-link.com/logo.png" alt="Saint & Co." width="200"/>
+</p>
+
+<h1 align="center">Saint & Co.</h1>
+<h3 align="center">The Architecture of Intelligence</h3>
+
+<p align="center">A modular data intelligence platform for creators, freelancers, and startups. Automate insight, own your data, and build smarter.</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  </a>
+  <a href="https://discord.gg/aVDahGaNWu">
+    <img src="https://img.shields.io/discord/000000000000000000?label=Discord&logo=discord&color=5865F2" alt="Join Discord">
+  </a>
+  <a href="https://github.com/clamontoya28/saintco/stargazers">
+    <img src="https://img.shields.io/github/stars/clamontoya28/saintco?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/clamontoya28/saintco/commits/main">
+    <img src="https://img.shields.io/github/last-commit/clamontoya28/saintco" alt="Last Commit">
+  </a>
+  <a href="https://your-docs.com">
+    <img src="https://img.shields.io/badge/Documentation-📘-orange" alt="Docs">
+  </a>
+</p>
+
+---
+
+## What is Saint & Co?
+
+**Saint & Co.** is a modular platform that transforms disconnected and messy data into smart, customizable dashboards with powerful insights — built for creators, freelancers, micro-brands, and startup teams.
+
+> Upload your data, automate insight, and finally own your numbers.
 
 ## Key Features
 
